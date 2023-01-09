@@ -9,7 +9,7 @@
   "author": "Valerija Dimova",
   "license": "ISC",
   "dependencies": {
-    "firebase-admin": "^6.5.0",
-    "firebase-functions": "^2.2.1"
+    "firebase-admin": "^11.4.1",
+    "firebase-functions": "^4.1.1"
   }
 }
